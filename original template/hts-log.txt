@@ -1,0 +1,60 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 22 Jan 2024 14:20:02 at ledthanhdat.vn/html/vereesa/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" ledthanhdat.vn/html/vereesa/ -O1 "C:\Users\ranve\Documents\Right Angle\original template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:20:11	Warning: 	Moved Permanently for ledthanhdat.vn/robots.txt
+14:20:11	Warning: 	Redirected link is identical because of 'URL Hack' option: ledthanhdat.vn/robots.txt and https://ledthanhdat.vn/robots.txt
+14:20:11	Warning: 	Warning moved treated for ledthanhdat.vn/robots.txt (real one is https://ledthanhdat.vn/robots.txt)
+14:21:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/css/font-awesome.min.css (from ledthanhdat.vn/html/vereesa/)
+14:21:27	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/css/slick.css (from ledthanhdat.vn/html/vereesa/)
+14:22:19	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/login.html (from ledthanhdat.vn/html/vereesa/)
+14:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-21.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-22.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-1.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:27	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-3.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:27	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-4.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:28	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-6.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:28	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-8.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:28	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-10.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:28	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-13.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-15.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-12.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/slider-blog-thumb-3.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:30	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/jquery.plugin-countdown.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:31	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/owl.carousel.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:31	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/magnific-popup.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:31	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/jquery.scrollbar.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:31	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/slick.js (from ledthanhdat.vn/html/vereesa/)
+14:23:32	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/jquery.elevateZoom.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:33	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/lightbox.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:33	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/fonts/glyphicons-halflings-regular.eot (from ledthanhdat.vn/html/vereesa/assets/css/bootstrap.min.css)
+14:23:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/about-background.jpg (from ledthanhdat.vn/html/vereesa/assets/css/style.css)
+14:23:44	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg (from ledthanhdat.vn/html/vereesa/assets/css/style.css)
+14:23:47	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/testimonials-bg.jpg (from ledthanhdat.vn/html/vereesa/assets/css/style.css)
+14:23:51	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/banner-home-5.jpg (from ledthanhdat.vn/html/vereesa/assets/css/style.css)
+14:23:51	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/banner-home-6.jpg (from ledthanhdat.vn/html/vereesa/assets/css/style.css)
+14:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-3.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-6.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-8.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:53	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/product-item-15.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:53	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/images/slider-blog-thumb-3.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:53	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/owl.carousel.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:54	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/magnific-popup.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:54	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/js/lightbox.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:54	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/fonts/fontawesome-webfont.eot?v=4.7.0 (from ledthanhdat.vn/html/vereesa/assets/css/font-awesome.min.css)
+14:23:55	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 (from ledthanhdat.vn/html/vereesa/assets/css/font-awesome.min.css)
+14:23:55	Warning: 	Moved Permanently for ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg
+14:23:55	Warning: 	Redirected link is identical because of 'URL Hack' option: ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg and https://ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg
+14:23:55	Warning: 	Warning moved treated for ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg (real one is https://ledthanhdat.vn/html/vereesa/assets/images/slider-thumb-full-4.jpg)
+14:23:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link ledthanhdat.vn/html/vereesa/assets/images/product-item-3.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link ledthanhdat.vn/html/vereesa/assets/images/product-item-15.jpg (from ledthanhdat.vn/html/vereesa/)
+14:23:57	Error: 	"No data (connection closed)" (-4) after 2 retries at link ledthanhdat.vn/html/vereesa/assets/js/magnific-popup.min.js (from ledthanhdat.vn/html/vereesa/)
+14:23:57	Error: 	"No data (connection closed)" (-4) after 2 retries at link ledthanhdat.vn/html/vereesa/assets/js/lightbox.min.js (from ledthanhdat.vn/html/vereesa/)
+14:24:00	Warning: 	Retry after error -4 (No data (connection closed)) at link ledthanhdat.vn/html/vereesa/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 (from ledthanhdat.vn/html/vereesa/assets/css/font-awesome.min.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 4 minutes 1 seconds : 249 links scanned, 204 files written (7569748 bytes overall) [4362854 bytes received at 18103 bytes/sec], 4394456 bytes transferred using HTTP compression in 65 files, ratio 25%, 2.9 requests per connection
+(4 errors, 45 warnings, 0 messages)
