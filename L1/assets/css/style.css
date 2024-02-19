@@ -5933,7 +5933,9 @@ ul.list-products {
 	background-image: url(../images/home-godrej/slider2.jpg);
 
 }
-
+.slider-item.occasional.style1 .slider-inner{
+	background-image: url(../images/occasional-banner.jpg);
+}
 .slider-item.desking.style1 .slider-inner{
     background-image: url(../images/office-range/banner1.jpg);
 }
