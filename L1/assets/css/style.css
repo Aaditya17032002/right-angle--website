@@ -5933,6 +5933,23 @@ ul.list-products {
 	background-image: url(../images/home-godrej/slider2.jpg);
 
 }
+
+.slider-item.desking.style1 .slider-inner{
+    background-image: url(../images/office-range/banner1.jpg);
+}
+.slider-item.seating.style1 .slider-inner{
+    background-image: url(../images/office-range/banner1.jpg);
+}
+.slider-item.storage.style1 .slider-inner{
+    background-image: url(../images/office-range/banner1.jpg);
+}
+.slider-item.healthcare.style1 .slider-inner{
+    background-image: url(../images/office-range/banner3.jpg);
+}
+.slider-item.labs.style1 .slider-inner{
+    background-image: url(../images/office-range/banner4.jpg);
+}
+
 .slider-item.living-room.style1 .slider-inner .slider-infor{
     height: 500px;
     display: block;
@@ -11563,4 +11580,8 @@ p.small-para-heading {
     font-weight: 500;
     color: #000;
 	padding-bottom: 30px;
+}
+
+.custom-container{
+	padding-top: 36px;
 }
